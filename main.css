@@ -1,7 +1,7 @@
 html,
 body {
   margin: 0;
-  font-family: "Times New Roman", Times, serif;
+  font-family: Arial, sans-serif;
 }
 
 header {
@@ -14,7 +14,6 @@ header {
 
 .name {
   color: #ffffff;
-  font-size: 30pt;
 }
 
 .menu {
@@ -23,35 +22,8 @@ header {
 
 .menu-alternative {
   color: #ffffff;
-  margin: 10px;
-}
-
-.hero-section {
-  width: 100%;
-  position: relative;
-}
-
-.quote {
-  text-align: center;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: #000000;
-  font-family: "Times New Roman", Times, serif;
-  font-size: 50pt;
-  background-color: rgba(225, 225, 225, 0.5);
-  padding: 70px;
-  border-radius: 25px;
-}
-
-.container {
-  margin-left: 100px;
-  margin-right: 100px;
-}
-
-.content {
-  text-align: center;
+  margin: 20px;
+  text-decoration: none;
 }
 
 footer {
