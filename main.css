@@ -26,6 +26,10 @@ header {
   text-decoration: none;
 }
 
+.menu-alternative:hover {
+  text-decoration: underline;
+}
+
 footer {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
