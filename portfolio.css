@@ -11,15 +11,20 @@ main {
   column-gap: 50px;
 }
 
+.a:hover {
+  text-decoration: underline;
+}
+
 .figure {
-  border: 5px solid;
+  /* border: 5px solid;
   border-radius: 15px;
-  border-color: #9caf88;
+  border-color: #9caf88; */
 }
 
 .image {
   width: 100%;
   height: fit-content;
+  border-radius: 15px;
 }
 
 .a {
