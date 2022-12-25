@@ -50,3 +50,9 @@ main {
   grid-column-start: 3;
   grid-column-end: 4;
 }
+
+.work {
+  object-fit: contain;
+  width: 100%;
+  /* border-radius: 10px; */
+}
